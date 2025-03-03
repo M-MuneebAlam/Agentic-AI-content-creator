@@ -79,7 +79,7 @@ streamlit run app.py
 ## File Structure
 ```
 project-directory/
-│── app.py               # Main Streamlit application
+│── streamlit_app.py     # Main Streamlit application
 │── requirements.txt     # List of dependencies
 │── .env                 # Environment variables (not tracked in Git)
 │── README.md            # Documentation
